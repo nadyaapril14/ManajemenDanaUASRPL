@@ -1,14 +1,3 @@
-# Dompet
-
-[![Build Status](https://travis-ci.org/nafiesl/dompet.svg?branch=master)](https://travis-ci.org/nafiesl/dompet)
-[![Coverage Status](https://coveralls.io/repos/github/nafiesl/dompet/badge.svg?branch=master)](https://coveralls.io/github/nafiesl/dompet?branch=master)
-
-Dompet is a personal bookkeeping web application, built with Laravel 5.
-
-## Objective
-Easy bookkeeping for personal income and spending (amount of money).
-
-## Concept
 
 To aquire our objective, we need this features on the application:
 
@@ -31,7 +20,7 @@ This application can be installed on local server and online server with these s
 
 #### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/dompet.git`
+1. Clone the repo : `git clone https://github.com/nadyaapril14/ManajemenDanaUASRPL.git`
 2. `$ cd dompet`
 3. `$ composer install`
 4. `$ cp .env.example .env`
@@ -43,26 +32,6 @@ This application can be installed on local server and online server with these s
 9. `$ php artisan serve`
 10. Register new account.
 
-## Contributing
-
-If you are considering to contribute to this repo. It is really nice.
-
-1. Submit Issue if you found any errors or bugs or if you want to propose new feature.
-2. Pull Request for bugfix, typo on labels, or new feature.
-
-## Screenshots
-
-#### Transaction List on a Month
-
-![Dompet Monthly Transaction List](public/screenshots/01-monthly-transaction-list.jpg)
-
-#### Transaction List on Selected Date
-
-![Dompet Daily Transaction List](public/screenshots/02-daily-transaction-list.jpg)
-
-#### Transaction Summary Report
-
-![Dompet Daily Transaction List](public/screenshots/03-transaction-summary-report.jpg)
 
 ## License
 
